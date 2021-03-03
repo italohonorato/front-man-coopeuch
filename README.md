@@ -1,4 +1,4 @@
-# front-man-coopeuch
+git # front-man-coopeuch
 
 Desafío Técnico COOPEUCH
 
@@ -13,6 +13,6 @@ Compilación _APP_FOLDER = APP_NAME = Nombre del proyecto_
  ng build --output-hashing=all --baseHref=/APP_FOLDER/
 
 Generar WAR  
- jar -cvf APP_NAME.war \*
+ jar -cvf APP_NAME.war
 
 Copiar war generado en la carpeta del servidor para su despliegue
